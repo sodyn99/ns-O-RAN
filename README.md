@@ -39,7 +39,7 @@ git clone --recurse-submodules https://github.com/sodyn99/ns-O-RAN.git
 
 ## Installation
 
-Please go to the [README.md](https://github.com/sodyn99/ns-O-RAN/tree/main/docs) for the installation instructions of the original repository.
+Please go to the [README.md](https://github.com/sodyn99/ns-O-RAN/tree/main/docs#installation-instructions) for the installation instructions of the original repository.
 
 ### O-RAN SC Near-RT RIC
 
